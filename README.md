@@ -11,3 +11,16 @@ warnings for sepsis and other complications.
 You are part of an AI/ML team building real-time predictive models to support clinical
 decision-making in ICU settings. Your models will help monitor patient vitals, predict
 deterioration, and provide early warnings for sepsis and other complications.
+
+sickbay-submission/
+├── models/
+│   └── sepsis_model.pkl
+├── notebooks/
+│   └── modeling_and_evaluation.ipynb
+├── reports/
+│   └── sepsis_report.pdf
+├── app/
+│   └── streamlit_app.py
+├── README.md
+└── requirements.txt
+
