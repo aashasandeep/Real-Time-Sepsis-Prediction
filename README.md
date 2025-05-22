@@ -24,3 +24,12 @@ sickbay-submission/
 ├── README.md
 └── requirements.txt
 
+| Task No. | Task Description                                                  |
+| -------- | ----------------------------------------------------------------- |
+| Task 1   | Exploratory data analysis                                         |
+| Task 2   | Feature engineering                                               |
+| Task 3   | Model training (Random Forest)                           |
+| Task 4   | Performance metrics: Accuracy, Precision, Recall, F1, Specificity |
+| Task 5   | Streamlit App with model interface                                |
+| Task 6   | Model monitoring: drift, alerting, logging & audit trails         |
+
